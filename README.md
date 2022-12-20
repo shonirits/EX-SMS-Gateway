@@ -6,6 +6,8 @@ EX SMS Gateway is powerful tool to send sms from your phone connection using API
 
 EX SMS Gateway required Send SMS permission to Send SMS from your sim card on all (API)http requests. If the app does not have Send SMS permission, then it will not work properly.
 
+SMS & Data rates may apply: Depending on your cellphone plan, your carrier may charge standard message rates and data charges to send text messages.
+
 Request URL Json Example:
 
 http://example.com/get_queue_sms
