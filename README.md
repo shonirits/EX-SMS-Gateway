@@ -22,6 +22,8 @@ http://example.com/sms_sent_status_update?sms_id={id}
 
 Return: successed
 
+Note: {id} will be replace with your id value which get from request id so that you can handle your sms status on your server.
+
 
 Schedule Cron Every Minute Example (Linux Style):
 
