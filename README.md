@@ -44,3 +44,7 @@ WAKE_LOCK: Allows using PowerManager WakeLocks to keep processor from sleeping o
 FOREGROUND_SERVICE: Allows a regular application to use Service.startForeground.
 
 REQUEST_IGNORE_BATTERY_OPTIMIZATIONS: Permission an application must hold in order to use Settings.ACTION_REQUEST_IGNORE_BATTERY_OPTIMIZATIONS.
+
+
+If you are getting benefits from this app please don't forget to 5 star review on playstore. Your appreciation help us to continue our work.
+https://play.google.com/store/apps/details?id=com.ex.smsgateway
