@@ -1,6 +1,7 @@
 # EX-SMS-Gateway
 Send SMS From Queue of your web server
 
+NOW SUPPORTED DUAL SIM CARDS
 
 EX SMS Gateway is powerful tool to send sms from your phone connection using API.
 
@@ -14,16 +15,13 @@ http://example.com/get_queue_sms
 
 Return: {"id":"786","phone":"+923133336426","text":"Hey Mian"}
 
-
 Response URL Example:
-
 
 http://example.com/sms_sent_status_update?sms_id={id}
 
 Return: successed
 
 Note: {id} will be replace with your id value which get from request id so that you can handle your sms status on your server.
-
 
 Schedule Cron Every Minute Example (Linux Style):
 
@@ -45,6 +43,4 @@ FOREGROUND_SERVICE: Allows a regular application to use Service.startForeground.
 
 REQUEST_IGNORE_BATTERY_OPTIMIZATIONS: Permission an application must hold in order to use Settings.ACTION_REQUEST_IGNORE_BATTERY_OPTIMIZATIONS.
 
-
-If you are getting benefits from this app please don't forget to 5 star review on playstore. Your appreciation help us to continue our work.
-https://play.google.com/store/apps/details?id=com.ex.smsgateway
+If you are getting benefits from this app please don't forget to 5 star review on playstore. Your appreciation help us to continue our work. https://play.google.com/store/apps/details?id=com.ex.smsgateway
